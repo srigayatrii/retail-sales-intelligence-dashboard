@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-13%2B-blue)
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-orange)
-![License](https://img.shields.io/badge/License-MIT-green)
+
 
 ## 🎯 Business Problem Statement
 Retail executives lack real-time, granular visibility into performance drivers - making it difficult to optimize inventory, allocate marketing spend, and retain high-value customers. Without an integrated analytics pipeline that transforms raw transactional data into actionable insights, decisions are reactive, inefficient, and often based on incomplete information.
@@ -161,9 +161,7 @@ The `sql/queries.sql` file contains queries designed to answer real business que
 - **Analytics:** Advanced SQL (CTEs, Window Functions, ROLLUP)  
 - **Visualization:** Power BI  
 
-## 📜 License
-This project is licensed under the MIT License – see LICENSE for details.
-Free to use, modify, and learn from. Attribution appreciated.
+
 
 ### 💡 This project demonstrates how to transform raw transactional data into actionable insights using data engineering, SQL analytics, and business intelligence techniques.
 
